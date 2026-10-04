@@ -1,0 +1,15 @@
+# Dataset (download separately — see README)
+data/
+*.zip
+OCT_Dataset/
+OCT_Results/
+*.tif
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
